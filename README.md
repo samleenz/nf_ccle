@@ -4,6 +4,13 @@ Sam Lee
 email: lee.sa@wehi.edu.au
 
 
+## about
+
+some info about the data: https://www.ebi.ac.uk/biostudies/files/E-MTAB-2770/E-MTAB-2770.idf.txt
+
+
+
+
 ## To run
 
 ```bash
